@@ -5,7 +5,6 @@
 # 4. логарифм (основание тоже вводится)
 # 5. рассчет процентного соотношения.
 import math
-
 def factorial(number):
     if number == 0:
         return 1
